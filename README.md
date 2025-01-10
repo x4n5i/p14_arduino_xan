@@ -1,1 +1,1 @@
-# p14_arduino_xan
+Práctica nº 14 de Entradas Dixitais. Realización de práctica anterior engadindo un pulsador que inhabilite o programa orixinal. O programa debe parar totalmente cando prememos o pulsador. Cando soltamos o pulsador, o programa deterase por completo.
